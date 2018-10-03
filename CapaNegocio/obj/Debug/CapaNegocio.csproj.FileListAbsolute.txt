@@ -1,0 +1,7 @@
+J:\Proyectos\EmisionActas\Actas\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+J:\Proyectos\EmisionActas\Actas\CapaNegocio\bin\Debug\CapaNegocio.dll
+J:\Proyectos\EmisionActas\Actas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+J:\Proyectos\EmisionActas\Actas\CapaNegocio\bin\Debug\CapaDatos.dll
+J:\Proyectos\EmisionActas\Actas\CapaNegocio\bin\Debug\CapaDatos.pdb
+J:\Proyectos\EmisionActas\Actas\CapaNegocio\obj\Debug\CapaNegocio.dll
+J:\Proyectos\EmisionActas\Actas\CapaNegocio\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,4 @@
+J:\Proyectos\EmisionActas\Actas\CapaDatos\bin\Debug\CapaDatos.dll
+J:\Proyectos\EmisionActas\Actas\CapaDatos\bin\Debug\CapaDatos.pdb
+J:\Proyectos\EmisionActas\Actas\CapaDatos\obj\Debug\CapaDatos.dll
+J:\Proyectos\EmisionActas\Actas\CapaDatos\obj\Debug\CapaDatos.pdb

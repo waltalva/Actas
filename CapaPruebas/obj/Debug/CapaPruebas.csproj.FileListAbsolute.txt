@@ -1,0 +1,9 @@
+J:\Proyectos\EmisionActas\Actas\CapaPruebas\bin\Debug\CapaPruebas.dll
+J:\Proyectos\EmisionActas\Actas\CapaPruebas\bin\Debug\CapaPruebas.pdb
+J:\Proyectos\EmisionActas\Actas\CapaPruebas\obj\Debug\CapaPruebas.csprojResolveAssemblyReference.cache
+J:\Proyectos\EmisionActas\Actas\CapaPruebas\obj\Debug\CapaPruebas.dll
+J:\Proyectos\EmisionActas\Actas\CapaPruebas\obj\Debug\CapaPruebas.pdb
+J:\Proyectos\EmisionActas\Actas\CapaPruebas\bin\Debug\CapaNegocio.dll
+J:\Proyectos\EmisionActas\Actas\CapaPruebas\bin\Debug\CapaDatos.dll
+J:\Proyectos\EmisionActas\Actas\CapaPruebas\bin\Debug\CapaNegocio.pdb
+J:\Proyectos\EmisionActas\Actas\CapaPruebas\bin\Debug\CapaDatos.pdb
